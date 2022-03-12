@@ -139,19 +139,17 @@
         "unittest2-v0_0_3": "unittest2-v0_0_3"
       },
       "locked": {
-        "dir": "nimpkgs/u/unittest2",
-        "lastModified": 1646967406,
-        "narHash": "sha256-7yY969affJjYe7EtRovP3OFMPrYRzrXc++2HXXrXxiQ=",
-        "owner": "riinr",
-        "repo": "flake-nimble",
-        "rev": "d80bdf6d01990666bf845a0d6c3d09ee79633b08",
+        "lastModified": 1647060323,
+        "narHash": "sha256-fmmBIrZhQ6GdPNbG5LpfBZXSTuHy4vTuIxhax1Jgu68=",
+        "owner": "nim-nix-pkgs",
+        "repo": "unittest2",
+        "rev": "1feaa0666098dce0b0c01cc31b2be085891f2482",
         "type": "github"
       },
       "original": {
-        "dir": "nimpkgs/u/unittest2",
-        "owner": "riinr",
-        "ref": "flake-pinning",
-        "repo": "flake-nimble",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "unittest2",
         "type": "github"
       }
     },
@@ -168,20 +166,13 @@
         "src-unittest2-master": "src-unittest2-master"
       },
       "locked": {
-        "dir": "nimpkgs/u/unittest2/master",
-        "lastModified": 1646967406,
-        "narHash": "sha256-7yY969affJjYe7EtRovP3OFMPrYRzrXc++2HXXrXxiQ=",
-        "owner": "riinr",
-        "repo": "flake-nimble",
-        "rev": "d80bdf6d01990666bf845a0d6c3d09ee79633b08",
-        "type": "github"
+        "narHash": "sha256-Zs0kQqL3GTswKERLi7oRvAetZygndJCHh7f4BRXSi1g=",
+        "path": "./master",
+        "type": "path"
       },
       "original": {
-        "dir": "nimpkgs/u/unittest2/master",
-        "owner": "riinr",
-        "ref": "flake-pinning",
-        "repo": "flake-nimble",
-        "type": "github"
+        "path": "./master",
+        "type": "path"
       }
     },
     "unittest2-v0_0_1": {
@@ -197,20 +188,13 @@
         "src-unittest2-v0_0_1": "src-unittest2-v0_0_1"
       },
       "locked": {
-        "dir": "nimpkgs/u/unittest2/v0_0_1",
-        "lastModified": 1646967406,
-        "narHash": "sha256-7yY969affJjYe7EtRovP3OFMPrYRzrXc++2HXXrXxiQ=",
-        "owner": "riinr",
-        "repo": "flake-nimble",
-        "rev": "d80bdf6d01990666bf845a0d6c3d09ee79633b08",
-        "type": "github"
+        "narHash": "sha256-OjZwjqElCO/TRnEhQpWZgwbAdvC+QYYsVg27mE59g3g=",
+        "path": "./v0_0_1",
+        "type": "path"
       },
       "original": {
-        "dir": "nimpkgs/u/unittest2/v0_0_1",
-        "owner": "riinr",
-        "ref": "flake-pinning",
-        "repo": "flake-nimble",
-        "type": "github"
+        "path": "./v0_0_1",
+        "type": "path"
       }
     },
     "unittest2-v0_0_2": {
@@ -226,20 +210,13 @@
         "src-unittest2-v0_0_2": "src-unittest2-v0_0_2"
       },
       "locked": {
-        "dir": "nimpkgs/u/unittest2/v0_0_2",
-        "lastModified": 1646967406,
-        "narHash": "sha256-7yY969affJjYe7EtRovP3OFMPrYRzrXc++2HXXrXxiQ=",
-        "owner": "riinr",
-        "repo": "flake-nimble",
-        "rev": "d80bdf6d01990666bf845a0d6c3d09ee79633b08",
-        "type": "github"
+        "narHash": "sha256-/NV22bFJeJ13MDTbWaPOD7bGbh21hoRKvoop5T2hKXw=",
+        "path": "./v0_0_2",
+        "type": "path"
       },
       "original": {
-        "dir": "nimpkgs/u/unittest2/v0_0_2",
-        "owner": "riinr",
-        "ref": "flake-pinning",
-        "repo": "flake-nimble",
-        "type": "github"
+        "path": "./v0_0_2",
+        "type": "path"
       }
     },
     "unittest2-v0_0_3": {
@@ -255,20 +232,13 @@
         "src-unittest2-v0_0_3": "src-unittest2-v0_0_3"
       },
       "locked": {
-        "dir": "nimpkgs/u/unittest2/v0_0_3",
-        "lastModified": 1646967406,
-        "narHash": "sha256-7yY969affJjYe7EtRovP3OFMPrYRzrXc++2HXXrXxiQ=",
-        "owner": "riinr",
-        "repo": "flake-nimble",
-        "rev": "d80bdf6d01990666bf845a0d6c3d09ee79633b08",
-        "type": "github"
+        "narHash": "sha256-+Q70O0FL6TsDEJRC3JYIYlH2sEW3SmBgCHGV4dP5rkc=",
+        "path": "./v0_0_3",
+        "type": "path"
       },
       "original": {
-        "dir": "nimpkgs/u/unittest2/v0_0_3",
-        "owner": "riinr",
-        "ref": "flake-pinning",
-        "repo": "flake-nimble",
-        "type": "github"
+        "path": "./v0_0_3",
+        "type": "path"
       }
     }
   },
