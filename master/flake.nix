@@ -11,7 +11,6 @@
   inputs.src-bearssl-master.ref   = "refs/heads/master";
   inputs.src-bearssl-master.owner = "status-im";
   inputs.src-bearssl-master.repo  = "nim-bearssl";
-  inputs.src-bearssl-master.dir   = "";
   inputs.src-bearssl-master.type  = "github";
   
   inputs."unittest2".owner = "nim-nix-pkgs";
